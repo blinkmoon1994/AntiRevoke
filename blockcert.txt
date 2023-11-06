@@ -2,6 +2,7 @@ googlesyndication.com
 digicert.com
 digicert.cn
 entrust.net
+entrust.com
 valid.apple.com
 certs.apple.com
 crl.apple.com
